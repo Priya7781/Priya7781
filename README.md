@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyadarshi7781" target="blank"><img src="https://img.shields.io/twitter/follow/priyadarshi7781?logo=twitter&style=for-the-badge" alt="priyadarshi7781" /></a> </p>
 
-- 🔭 I’m currently working at **Opentext as SWE Intern**
+- 🔭 I’m currently working at **LTM as SDET**
 
 - 🌱 I’m currently learning **React Native, NextJS**
 
