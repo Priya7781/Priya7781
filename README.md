@@ -1,6 +1,6 @@
 <div align="center">
 
-![MasterHead](https://user-images.githubusercontent.com/55138445/242695478-c5341d03-cbf4-4288-93e6-1c92afc715a6.gif)
+
 
 # Hi 👋, I'm Priyadarshi Nayak
 
