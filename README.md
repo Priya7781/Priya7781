@@ -40,7 +40,7 @@ Quality Engineer with nearly 3 years of experience in manual and automation test
 
 * 💬 Ask me about **Playwright, Selenium, Java, TypeScript, API Testing, CI/CD, and QA Automation**
 
-* 📫 Reach me at **[priyadarshinayak2001@gmail.com](mailto:priyadarshinayakcareer@gmail.com)**
+* 📫 Reach me at **[priyadarshinayakcareer@gmail.com](mailto:priyadarshinayakcareer@gmail.com)**
 
 * 📄 Know more about my experience: [View my resume](https://drive.google.com/file/d/1j8-HtsjLd25DP2cvwi0i4rpHjn4tdtav/view?usp=sharing)
 
